@@ -10,7 +10,7 @@ A0326794N 		Yang Ziyu
 
 Weblink:
 Group GitHub weblink:
-
+https://github.com/pampamda/IRS-PM-2025-10-26-AIS08FT-Group8-AI-Driven_Chest_Radiograph_Analysis_System
 
 Application GitHub weblink:
 https://github.com/Yummyyyyyyy/Chexpert_front
