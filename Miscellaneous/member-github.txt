@@ -1,0 +1,33 @@
+Group Number: Group 8
+Project Title: AI-Driven Chest Radiograph Analysis System
+
+Group Members:
+A0327973X 		Gu ShuoHan
+A0329069U 		Pan Linyu
+A0329955L 		Wang Siwei
+A0329709R 		Yang Minyue
+A0326794N 		Yang Ziyu
+
+Weblink:
+Group GitHub weblink:
+
+
+Application GitHub weblink:
+https://github.com/Yummyyyyyyy/Chexpert_front
+https://github.com/Yummyyyyyyy/Chexpert_back
+
+LLaVA-4b finetuning process:
+https://colab.research.google.com/drive/1qWwFyXcktmKSJ3kA23MfemLq3XJ0t09S?usp=sharing
+LLaVA original model:
+https://drive.google.com/drive/folders/1G1kAWuXp274bgssyUO2IXGs89F6F0k4_?usp=drive_link
+LLaVA-4b finetuned:
+https://drive.google.com/drive/folders/1-YBirpx-9TcwyvDvbZ5Tux0KkFUqzgjs?usp=sharing
+LLaVA-4b local deployment:
+https://colab.research.google.com/drive/1Hr7ecc9NFK95PBcO8V-9oQEM6LeSghqZ?usp=drive_link
+
+LLaVA-7b finetuning process:
+https://colab.research.google.com/drive/1COdtSZvHYm4fQYAm5Y2A4puD_r9psxBc?usp=sharing
+LLaVA-7b finetuned model file:
+https://drive.google.com/drive/folders/12qHB5mTbYOjkNTxgd1AH5iwc0Alxz0Y2?usp=sharing
+LLaVA-7b local deployment:
+https://colab.research.google.com/drive/1Warwmjh_CdZ6-UJ5DltX8Wa0ThFuna_j?usp=sharing
